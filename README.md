@@ -1,7 +1,7 @@
 # SO-project
 
-Manager: Tomi Riccardo Sandu Lefcu
-Verificador: Irina Castella Torrus
-Comunicador: Oscar Samblas Chavernas
+Manager: Tomi Riccardo Sandu Lefcu \n
+Verificador: Irina Castella Torrus \n 
+Comunicador: Oscar Samblas Chavernas \n
 
 https://youtu.be/5ZbhdBpilIQ
